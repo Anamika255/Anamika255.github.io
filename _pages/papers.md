@@ -18,9 +18,11 @@ author_profile: true
 
 ## Journal publications
 
-2023 | **Shreevastava, A.**, Raymond, C. & Hulley, G. C. (2023). Contrasting intra-urban signatures of humid and dry heatwaves over southern california. *Journal of Applied Meteorology and Climatology.*  [doi](https://doi.org/10.1175/JAMC-D-22-0149.1){: .btn .btn--inverse} |
+2023 | Raymond, C., **Shreevastava, A.**, Slinskey, E., & Waliser, D. (2024). Linkages between atmospheric rivers and humid heat across the united states. *Natural Hazards and Earth System Sciences*. [doi](https://doi.org/10.5194/nhess-24-791-2024){: .btn .btn--inverse} |
 
-2023 | **Shreevastava, A.**, Thompson, J. & Hulley, G. (2023). Algorithms for detecting sub-pixel elevated temperature features for the nasa surface biology and geology (sbg) designated observable. *Journal of Geophysical Research: Biogeosciences*. [doi](https://doi.org/10.1029/2022JG007370){: .btn .btn--inverse} |
+2023 | **Shreevastava, A.**, Raymond, C., & Hulley, G. C. (2023). Contrasting intra-urban signatures of humid and dry heatwaves over southern california. *Journal of Applied Meteorology and Climatology.*  [doi](https://doi.org/10.1175/JAMC-D-22-0149.1){: .btn .btn--inverse} |
+
+2023 | **Shreevastava, A.**, Thompson, J., & Hulley, G. (2023). Algorithms for detecting sub-pixel elevated temperature features for the nasa surface biology and geology (sbg) designated observable. *Journal of Geophysical Research: Biogeosciences*. [doi](https://doi.org/10.1029/2022JG007370){: .btn .btn--inverse} |
 
 2021 | **Shreevastava, A.**, Prasanth, S., Ramamurthy, P., & Rao, P.S.C. (2021). Scale-dependent response of the urban heat island to the European heatwave of 2018. *Environmental Research Letters*. [doi](https://doi.org/10.1088/1748-9326/ac25bb){: .btn .btn--inverse} |
 

@@ -10,8 +10,8 @@ header:
   actions:
     - label: "Explore"
       url: "https://Anamika255.github.io/about/"
-    - label: "Join"
-      url: "https://Anamika255.github.io/about/"
+    - label: "New York University"
+      url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
 
 excerpt: >
   <br>

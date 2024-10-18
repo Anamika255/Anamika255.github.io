@@ -13,6 +13,7 @@ author_profile: true
   <img src="/assets/images/Display pic.JPG" alt="">
 </figure>
 
+
 Hello!! I am Anamika. I am a NASA Postdoctoral Fellow working at the Jet Propulsion Laboratory. I am currently living in Pasadena, California. Here's my [work profile](https://science.jpl.nasa.gov/people/anamika-shreevastava/).
 
 I did my Ph.D at [Purdue University](https://www.purdue.edu) in an interdisciplinary program called [Ecological Sciences and Engineering](https://www.purdue.edu/gradschool/ese/). My doctoral thesis focussed on **Characterizing the intra-urban complexity of the Urban Heat Island**. My Ph.D. has been a truly trans-disciplinary and nomadic experience, thanks to the amazing [NASA Earth and Space Science Fellowship](https://science.nasa.gov/researchers/sara/grant-stats/nasa-earth-and-space-science-fellowship-nessf-selections), the benevolence of my Ph.D. advisor - [Prof. Suresh Rao](https://engineering.purdue.edu/CE/People/view_person?resource_id=2131), and of course, the revolution of Cloud Computing! I have had the privilege to travel extensively for collaborations, workshops, and conferences. I believe that this freedom and global exposure has molded my research philosophy greatly.

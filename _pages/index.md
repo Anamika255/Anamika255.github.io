@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Anamika Shreevastava"
+title: "Climate Resilient Cities"
 header:
   overlay_image: assets/city-pics/zach-miles-Y84-eo8drzk-unsplash.jpg
   overlay_filter: 0.6
@@ -12,12 +12,7 @@ header:
       url: "https://Anamika255.github.io/about/"
 excerpt: >
   <br>
-  <br>
-  **NASA Postdoctoral Fellow** studying the impact of extreme heat on cities
-  <br>
-  <br>
-  Currently at the **Jet Propulsion Laboratory**, CalTech, Pasadena
-  <br>  
+  A new research group based in New York City focused on "urban resilience in a changing climate." Our work is driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
   <br>
 feature_row:
   - image_path: /assets/images/World_Map.png

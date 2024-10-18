@@ -25,7 +25,7 @@ feature_row:
     and Center for Urban Science and Progress, <br>
     Tandon School of Engineering, <br>
     New York University​"
-  - image_path: /assets/logos/NYU_broad.png
+  - image_path: /assets/logos/NYU_tandon.png
 ---
 
 

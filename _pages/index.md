@@ -10,6 +10,9 @@ header:
   actions:
     - label: "Explore"
       url: "https://Anamika255.github.io/about/"
+    - label: "Join"
+      url: "https://Anamika255.github.io/about/"
+
 excerpt: >
   <br>
   Research group focused on "urban resilience in a changing climate" driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?

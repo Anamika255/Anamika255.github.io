@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Explore"
+    - label: "Dive In"
       url: "https://Anamika255.github.io/about/"
     - label: "New York University"
       url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
@@ -44,7 +44,5 @@ feature_row:
 
 {% include feature_row %}
 
-<!--
-# Hello there! I am a PhD student at [Purdue University](https://www.purdue.edu/). This is my website under construction. Should be up and running by October 1st.
 
--->
+# Research group focused on "urban resilience in a changing climate" based in New York University.

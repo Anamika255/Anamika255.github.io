@@ -24,7 +24,7 @@ github_username: Anamika255
 minimal_mistakes_skin: contrast
 search: true
 
-logo: "/assets/images/LOGO_NYU.png"
+logo: "/assets/logos/Labname.png"
 masthead_title: " "
 
 
@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Anamika Shreevastava"
   avatar : "/assets/images/Photo_github.jpg"
-  bio    : "NASA Postdoctoral Fellow. Working at Jet Propulsion Lab, NASA."
+  bio    : "Assistant Professor"
   location: "Pasadena, CA"
   links:
 

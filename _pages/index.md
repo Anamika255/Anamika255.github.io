@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Climate Resilient Cities"
+title: "Climate Resilient Cities Lab"
 header:
   overlay_image: assets/city-pics/City-Sun.jpg
   overlay_filter: 0.5

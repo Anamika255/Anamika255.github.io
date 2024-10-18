@@ -47,12 +47,12 @@ feature_row:
 ### Prof. Anamika Shreevastava
 Assistant Professor
 
-Dept. of Mechanical & Aerospace Engineering,
-and Center for Urban Science and Progress,
-Tandon School of Engineering,
+Dept. of Mechanical & Aerospace Engineering, <br>
+and Center for Urban Science and Progress, <br>
+Tandon School of Engineering, <br>
 New York University​
 
-370 Jay Street, 13th Floor
+370 Jay Street, 13th Floor, <br>
 Brooklyn, NY 11201
 
 

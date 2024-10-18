@@ -5,7 +5,7 @@ classes: wide
 title: "Climate Resilient Cities Lab"
 header:
   overlay_image: assets/city-pics/City-Sun.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.7
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
@@ -25,7 +25,7 @@ feature_row:
     and Center for Urban Science and Progress, <br>
     Tandon School of Engineering, <br>
     New York University​"
-  - image_path: /assets/logos/NYU_tandon.png
+  - image_path: /assets/logos/NYU_tandon.jpg
 ---
 
 

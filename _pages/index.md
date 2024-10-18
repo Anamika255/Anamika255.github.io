@@ -19,18 +19,15 @@ excerpt: >
   <br>
 feature_row:
   - image_path: /assets/images/LOGO.png
-  - image_path: /assets/images/LOGO_NYU_long.png
     url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
-    btn_class: "btn--primary"
-    btn_label: "NYU profile"
-  - title: "Prof. Anamika Shreevastava"
-    excerpt: "Assistant Professor
-
-    Dept. of Mechanical & Aerospace Engineering, <br>
+    btn_class: "btn--secondary"
+    btn_label: "New York University"
+  - title: "Assistant Professor"
+    excerpt: "Dept. of Mechanical & Aerospace Engineering, <br>
     and Center for Urban Science and Progress, <br>
     Tandon School of Engineering, <br>
-    New York University​
-
+    New York University​ <br>
+    <br>
     370 Jay Street, 13th Floor, <br>
     Brooklyn, NY 11201"
 ---

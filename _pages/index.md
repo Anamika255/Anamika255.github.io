@@ -8,10 +8,12 @@ header:
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Dive In"
+    - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
     - label: "New York University"
       url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
+    - label: "Join us"
+      url: "https://Anamika255.github.io/join/"
 
 excerpt: >
   <br>
@@ -41,8 +43,19 @@ feature_row:
     btn_label: "Resources"
 ---
 
+
+### Prof. Anamika Shreevastava
+Assistant Professor
+
+Dept. of Mechanical & Aerospace Engineering,
+and Center for Urban Science and Progress,
+Tandon School of Engineering,
+New York University​
+
+370 Jay Street, 13th Floor
+Brooklyn, NY 11201
+
+
 <!--
 {% include feature_row %}
-
-# Research group focused on "urban resilience in a changing climate" based in New York University.
- -->
+-->

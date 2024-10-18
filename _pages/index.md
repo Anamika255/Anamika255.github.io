@@ -12,7 +12,7 @@ header:
       url: "https://Anamika255.github.io/about/"
 excerpt: >
   <br>
-  A new research group based in New York City focused on "urban resilience in a changing climate." Our work is driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
+  Research group focused on "urban resilience in a changing climate" driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
   <br>
 feature_row:
   - image_path: /assets/images/World_Map.png

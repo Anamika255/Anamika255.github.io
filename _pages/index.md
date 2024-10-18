@@ -4,8 +4,8 @@ permalink: /
 classes: wide
 title: "Climate Resilient Cities"
 header:
-  overlay_image: assets/city-pics/City_NYC.jpg
-  overlay_filter: 0.2
+  overlay_image: assets/city-pics/City-Sun.jpg
+  overlay_filter: 0.3
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
@@ -19,9 +19,6 @@ excerpt: >
   <br>
 feature_row:
   - image_path: /assets/images/LOGO.png
-    url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
-    btn_class: "btn--secondary"
-    btn_label: "Link to New York University profile"
   - title: "Assistant Professor"
     excerpt: "(Starting Fall 2025) <br>
     Dept. of Mechanical & Aerospace Engineering, <br>
@@ -29,6 +26,7 @@ feature_row:
     Tandon School of Engineering, <br>
     New York University​"
 ---
+
 
 {% include feature_row %}
 
@@ -44,7 +42,9 @@ New York University​
 
 370 Jay Street, 13th Floor, <br>
 Brooklyn, NY 11201
-
+url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
+btn_class: "btn--secondary"
+btn_label: "Link to New York University profile"
 
 <!--
 - image_path: /assets/images/Networks.jpg

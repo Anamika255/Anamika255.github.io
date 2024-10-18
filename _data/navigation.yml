@@ -5,9 +5,7 @@ main:
     url: /research/
   - title: "Publications"
     url: /papers/
-  - title: "Projects"
-    url: /projects/
   - title: "Resources"
     url: /resources/
-  - title: "Music"
-    url: /music/
+  - title: "Join us"
+    url: /join-us/

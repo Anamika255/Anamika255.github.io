@@ -41,8 +41,8 @@ feature_row:
     btn_label: "Resources"
 ---
 
-
+<!--
 {% include feature_row %}
 
-
 # Research group focused on "urban resilience in a changing climate" based in New York University.
+ -->

@@ -11,7 +11,7 @@ header:
     - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
     - label: "Join us"
-      url: "https://Anamika255.github.io/join/"
+      url: "https://Anamika255.github.io/join-us/"
 
 excerpt: >
   <br>
@@ -25,7 +25,7 @@ feature_row:
     and Center for Urban Science and Progress, <br>
     Tandon School of Engineering, <br>
     New York University​"
-  - image_path: /assets/logos/NYU_tandon.jpg
+  - image_path: /assets/logos/NYU_tandon_wide.png
 ---
 
 

@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/LOGO.png
     url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
     btn_class: "btn--secondary"
-    btn_label: "New York University"
+    btn_label: "Link to New York University profile"
   - title: "Assistant Professor"
     excerpt: "(Starting Fall 2025) <br>
     Dept. of Mechanical & Aerospace Engineering, <br>

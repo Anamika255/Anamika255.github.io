@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 title: "Climate Resilient Cities"
 header:
-  overlay_image: assets/city-pics/zach-miles-Y84-eo8drzk-unsplash.jpg
+  overlay_image: assets/city-pics/City_NYC.jpg
   overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:

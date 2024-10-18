@@ -7,9 +7,10 @@ author_profile: true
 ---
 
 
+<figure style="width: 300px" class="align-right">
+  <img src="/assets/images/laptop.jpg" alt="">
+</figure>
 
-
-## Opportunities
 
 **PhD Students**
 

@@ -10,8 +10,6 @@ header:
   actions:
     - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
-    - label: "New York University"
-      url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
     - label: "Join us"
       url: "https://Anamika255.github.io/join/"
 
@@ -20,12 +18,11 @@ excerpt: >
   Research group focused on "urban resilience in a changing climate" driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
   <br>
 feature_row:
-  - image_path: /assets/images/LOGO-Anamika.png
-    alt: "Research"
-    title: "Research"
-    url: "/About/"
+  - image_path: /assets/images/LOGO.png
+  - image_path: /assets/images/LOGO_NYU_long.png
+    url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
     btn_class: "btn--primary"
-    btn_label: "Research"
+    btn_label: "NYU profile"
   - title: "Prof. Anamika Shreevastava"
     excerpt: "Assistant Professor
 

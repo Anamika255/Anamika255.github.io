@@ -65,8 +65,11 @@ plugins:
 author:
   name   : "Anamika Shreevastava"
   avatar : "/assets/images/Photo_github.jpg"
-  bio    : "Assistant Professor"
-  location: "Pasadena, CA"
+  bio    : "Assistant Professor <br>
+            (Starting Fall 2025) <br>
+            Dept of MAE and CUSP, <br>
+            NYU Tandon School of Engineering"
+  location: "Caltech, Pasadena, CA"
   links:
 
     - label: "Email"

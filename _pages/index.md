@@ -5,7 +5,7 @@ classes: wide
 title: "Climate Resilient Cities"
 header:
   overlay_image: assets/city-pics/City_NYC.jpg
-  overlay_filter: 0.6
+  overlay_filter: 0.2
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
@@ -31,6 +31,8 @@ feature_row:
     370 Jay Street, 13th Floor, <br>
     Brooklyn, NY 11201"
 ---
+
+{% include feature_row %}
 
 
 <!--
@@ -62,5 +64,3 @@ Brooklyn, NY 11201
   btn_class: "btn--primary"
   btn_label: "Resources"
   -->
-{% include feature_row %}
--->

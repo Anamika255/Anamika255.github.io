@@ -20,30 +20,26 @@ excerpt: >
   Research group focused on "urban resilience in a changing climate" driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
   <br>
 feature_row:
-  - image_path: /assets/images/World_Map.png
+  - image_path: /assets/images/LOGO-Anamika.png
     alt: "Research"
     title: "Research"
-    excerpt: "Brief introduction to my research"
-    url: "/research/"
+    url: "/About/"
     btn_class: "btn--primary"
     btn_label: "Research"
-  - image_path: /assets/images/Networks.jpg
-    alt: "Projects"
-    title: "Other Projects"
-    excerpt: "Assorted collection of some of my scholarly projects that aren't published"
-    url: "/projects/"
-    btn_class: "btn--primary"
-    btn_label: "Projects"
-  - image_path: /assets/images/Stat_Wars.png
-    alt: "Resources"
-    title: "Resources"
-    excerpt: "Dive in for links to useful tools and online documents that I have curated over the years"
-    url: "/resources/"
-    btn_class: "btn--primary"
-    btn_label: "Resources"
+  - title: "Prof. Anamika Shreevastava"
+    excerpt: "Assistant Professor
+
+    Dept. of Mechanical & Aerospace Engineering, <br>
+    and Center for Urban Science and Progress, <br>
+    Tandon School of Engineering, <br>
+    New York University​
+
+    370 Jay Street, 13th Floor, <br>
+    Brooklyn, NY 11201"
 ---
 
 
+<!--
 ### Prof. Anamika Shreevastava
 Assistant Professor
 
@@ -57,5 +53,20 @@ Brooklyn, NY 11201
 
 
 <!--
+- image_path: /assets/images/Networks.jpg
+  alt: "Projects"
+  title: "Other Projects"
+  excerpt: "Assorted collection of some of my scholarly projects that aren't published"
+  url: "/projects/"
+  btn_class: "btn--primary"
+  btn_label: "Projects"
+- image_path: /assets/images/Stat_Wars.png
+  alt: "Resources"
+  title: "Resources"
+  excerpt: "Dive in for links to useful tools and online documents that I have curated over the years"
+  url: "/resources/"
+  btn_class: "btn--primary"
+  btn_label: "Resources"
+  -->
 {% include feature_row %}
 -->

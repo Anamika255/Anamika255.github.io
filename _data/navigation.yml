@@ -7,5 +7,7 @@ main:
     url: /papers/
   - title: "Resources"
     url: /resources/
+  - title: "Music"
+    url: /music/
   - title: "Join us"
     url: /join-us/

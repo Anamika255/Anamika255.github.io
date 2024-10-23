@@ -23,7 +23,10 @@ gallery:
 
 Cities, situated at the crossroads of rising temperatures and growing populations, bear the brunt of climate change and must adapt to the *new normal* of extreme weather impacts. Among the most dangerous of these hazards is extreme heat, which continues to intensify in frequency, severity, and duration. Today, we face both a crucial responsibility and a unique opportunity to implement urban design interventions and adaptation strategies that will equip cities to withstand the impacts of climate change in the coming century.
 
-Our lab focuses on exploring innovative urban design and climate adaptation strategies to combat the growing threat of extreme heat, especially in rapidly developing cities. Some of the ongoing research directions are highlighted below: 
+Our lab focuses on exploring innovative urban design and climate adaptation strategies to combat the growing threat of extreme heat, especially in rapidly developing cities.
+
+
+### Ongoing research directions
 
 | **Can improved urban spatial design mitigate extreme heat?** We investigate how the spatial distribution of heat sources (e.g., factories, densely built areas) and heat sinks (e.g., parks, wetlands) interacts within a city's thermodynamic network. By modeling heat flows and interactions using complex network techniques, we aim to identify the most vulnerable urban regions and allocate heat mitigation resources effectively. |
 

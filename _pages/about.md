@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="/assets/images/Display pic.JPG" alt="">
 </figure>
 
@@ -17,19 +17,19 @@ author_profile: true
 
 ### Bio
 
-I am an expert in \textbf{multi-scale urban climatology} and specialize in the application of numerical weather modeling and remote sensing to find equitable solutions to climate and environmental injustice within cities. I am starting as Assistant Professor at NYU in Fall 2025 with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP). My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide. |
+I am an expert in \textbf{multi-scale urban climatology} and specialize in the application of numerical weather modeling and remote sensing to find equitable solutions to climate and environmental injustice within cities. I am starting as Assistant Professor at NYU in Fall 2025 with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP). My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide.
 
-During my PhD from Purdue University, I pioneered the concept of "*fractal intra-urban heat islets*", characterizing the spatial heterogeneity of urban heat islands. I demonstrated that these heat islets exhibit a common fractal structure across diverse cities, laying the groundwork for globally adaptive models of heat emergence. My postdoctoral work at NASA Jet Propulsion Laboratory (JPL) and Caltech advanced thermal remote sensing and urban microclimate monitoring, contributing to innovative sensing technologies and deepening the understanding of how extreme heat disproportionately affects the urban poor and historically marginalized communities in Los Angeles. Committed to translating research into practical climate adaptation solutions, I have also served as a science ambassador and member of applied science teams at NASA JPL, actively collaborating with private and public institutions in California to develop cooling solutions for urban neighborhoods. |
+During my PhD from Purdue University, I pioneered the concept of "*fractal intra-urban heat islets*", characterizing the spatial heterogeneity of urban heat islands. I demonstrated that these heat islets exhibit a common fractal structure across diverse cities, laying the groundwork for globally adaptive models of heat emergence. My postdoctoral work at NASA Jet Propulsion Laboratory (JPL) and Caltech advanced thermal remote sensing and urban microclimate monitoring, contributing to innovative sensing technologies and deepening the understanding of how extreme heat disproportionately affects the urban poor and historically marginalized communities in Los Angeles. Committed to translating research into practical climate adaptation solutions, I have also served as a science ambassador and member of applied science teams at NASA JPL, actively collaborating with private and public institutions in California to develop cooling solutions for urban neighborhoods.
 
 
 
 ### Research Philosophy
 
-My research philosophy is grounded in viewing extreme weather and urban socio-physical systems as two interconnected, dynamic systems that interact across multiple spatiotemporal scales. Cities, for instance, are composed of spatially heterogeneous *forms*—buildings, road networks, and infrastructure that evolve over decades—and *functions* such as mobility, energy consumption, and anthropogenic emissions that fluctuate daily. Similarly, extreme weather and climate events emerge from nonlinear interactions between land, atmosphere, and ocean systems, driven by multi-scale feedback mechanisms. |
+My research philosophy is grounded in viewing extreme weather and urban socio-physical systems as two interconnected, dynamic systems that interact across multiple spatiotemporal scales. Cities, for instance, are composed of spatially heterogeneous *forms*—buildings, road networks, and infrastructure that evolve over decades—and *functions* such as mobility, energy consumption, and anthropogenic emissions that fluctuate daily. Similarly, extreme weather and climate events emerge from nonlinear interactions between land, atmosphere, and ocean systems, driven by multi-scale feedback mechanisms.
 
-A key outcome of the interplay between these two complex systems is the Urban Heat Island effect, a phenomenon I focused on during my PhD. UHIs result from the excess heat generated within cities due to their unique structure and functions. On a broader scale, heatwaves not only damage ecosystems—affecting forests, croplands, water resources, and the eco-hydro-climatic balance—but also exacerbate urban stress by depleting natural resources and forcing climate-driven migration to cities, creating long-term challenges. |
+A key outcome of the interplay between these two complex systems is the Urban Heat Island effect, a phenomenon I focused on during my PhD. UHIs result from the excess heat generated within cities due to their unique structure and functions. On a broader scale, heatwaves not only damage ecosystems—affecting forests, croplands, water resources, and the eco-hydro-climatic balance—but also exacerbate urban stress by depleting natural resources and forcing climate-driven migration to cities, creating long-term challenges.
 
-The path to building *climate-resilient cities* lies in deepening our understanding of the intricate interdependencies and feedbacks between urban areas and their microclimates. My research leverages techniques from complexity science, data science, numerical weather modeling, and remote sensing to unravel these interactions and inform urban adaptation strategies. |
+The path to building *climate-resilient cities* lies in deepening our understanding of the intricate interdependencies and feedbacks between urban areas and their microclimates. My research leverages techniques from complexity science, data science, numerical weather modeling, and remote sensing to unravel these interactions and inform urban adaptation strategies.
 
 
 

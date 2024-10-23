@@ -14,6 +14,46 @@ author_profile: true
 </figure>
 
 
+Hi I am Anamika
+
+
+### Bio
+
+| I am an incoming Assistant Professor with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP) at NYU. My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide. I specialize in numerical weather modeling, remote sensing, and complex systems science.
+
+During my PhD from Purdue University, I pioneered the concept of "*fractal intra-urban heat islets*", characterizing the spatial heterogeneity of urban heat islands. I demonstrated that these heat islets exhibit a common fractal structure across diverse cities, laying the groundwork for globally adaptive models of heat emergence. My postdoctoral work at NASA Jet Propulsion Laboratory (JPL) and Caltech advanced thermal remote sensing and urban microclimate monitoring, contributing to innovative sensing technologies and deepening the understanding of how extreme heat disproportionately affects the urban poor and historically marginalized communities in Los Angeles.
+
+Committed to translating research into practical climate adaptation solutions, I have also served as a science ambassador and member of applied science teams at NASA JPL, actively collaborating with private and public institutions in California to develop cooling solutions for urban neighborhoods. |
+
+
+
+### Research Philosophy
+
+| My research philosophy is grounded in viewing extreme weather and urban socio-physical systems as two interconnected, dynamic systems that interact across multiple spatiotemporal scales. Cities, for instance, are composed of spatially heterogeneous *forms*—buildings, road networks, and infrastructure that evolve over decades—and *functions* such as mobility, energy consumption, and anthropogenic emissions that fluctuate daily. Similarly, extreme weather and climate events emerge from nonlinear interactions between land, atmosphere, and ocean systems, driven by multi-scale feedback mechanisms.
+
+A key outcome of the interplay between these two complex systems is the Urban Heat Island effect, a phenomenon I focused on during my PhD. UHIs result from the excess heat generated within cities due to their unique structure and functions. On a broader scale, heatwaves not only damage ecosystems—affecting forests, croplands, water resources, and the eco-hydro-climatic balance—but also exacerbate urban stress by depleting natural resources and forcing climate-driven migration to cities, creating long-term challenges.
+
+The path to building *climate-resilient cities* lies in deepening our understanding of the intricate interdependencies and feedbacks between urban areas and their microclimates. My research leverages techniques from complexity science, data science, numerical weather modeling, and remote sensing to unravel these interactions and inform urban adaptation strategies. |
+
+
+### Education
+
+|
+**Purdue University**, (2016–2020)
+Ph.D. in Civil and Environmental Engineering
+Interdisciplinary Graduate Program in Ecological Sciences and Engineering
+
+**Purdue University**, (2014–2016)
+M.S. in Architectural Engineering
+
+**Indian Institute of Technology, Roorkee**, (2010–2014)
+B. Tech. in Civil Engineering |
+
+
+
+
+<!--
+
 Hello!! I am Anamika. I am a NASA Postdoctoral Fellow working at the Jet Propulsion Laboratory. I am currently living in Pasadena, California. Here's my [work profile](https://science.jpl.nasa.gov/people/anamika-shreevastava/).
 
 I did my Ph.D at [Purdue University](https://www.purdue.edu) in an interdisciplinary program called [Ecological Sciences and Engineering](https://www.purdue.edu/gradschool/ese/). My doctoral thesis focussed on **Characterizing the intra-urban complexity of the Urban Heat Island**. My Ph.D. has been a truly trans-disciplinary and nomadic experience, thanks to the amazing [NASA Earth and Space Science Fellowship](https://science.nasa.gov/researchers/sara/grant-stats/nasa-earth-and-space-science-fellowship-nessf-selections), the benevolence of my Ph.D. advisor - [Prof. Suresh Rao](https://engineering.purdue.edu/CE/People/view_person?resource_id=2131), and of course, the revolution of Cloud Computing! I have had the privilege to travel extensively for collaborations, workshops, and conferences. I believe that this freedom and global exposure has molded my research philosophy greatly.
@@ -29,3 +69,5 @@ Apart from science, I am into [music](/music/) and maps! I have discovered throu
   <img src="/assets/city-pics/London.jpg" alt="">
   <figcaption>To London, one of the most architecturally stunning cities I have ever walked in. I think it was the mix of old and new that most enchanted me! Photo credit: <a href="https://unsplash.com">Unsplash</a></figcaption>
 </figure>
+
+-->

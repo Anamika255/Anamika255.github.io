@@ -21,10 +21,21 @@ gallery:
   <img src="/assets/images/Research-Venn.png" alt="Research Venn">
 </figure>
 
-I am a NASA Postdoctoral Fellow working at the Jet Propulsion Lab, Pasadena. My research interests are at the intersection of Complex Systems, Urban Meteorology, and Remote Sensing. I have a sustained interest in the complexity, inter-dependency, and dynamism of complex socio-technological urban systems, and am passionate about engineering smart, resilient cities. My doctoral thesis is focused on characterizing *intra-urban complexity* of the Urban Heat Island. Prior to my Ph.D., I obtained degrees in Civil and Architectural Engineering from the Indian Institute of Technology and Purdue respectively.
+Our lab focuses on exploring innovative urban design and climate adaptation strategies to combat the growing threat of extreme heat, especially in rapidly developing cities. We aim to address several critical questions:
+
+| **Can improved urban spatial design mitigate extreme heat?** We investigate how the spatial distribution of heat sources (e.g., factories, densely built areas) and heat sinks (e.g., parks, wetlands) interacts within a city's thermodynamic network. By modeling heat flows and interactions using complex network techniques, we aim to identify the most vulnerable urban regions and allocate heat mitigation resources effectively. |
+
+| **How effective are urban cooling solutions?** We model the impact of urban morphology (e.g., building heights, cool streets, green infrastructure) on local temperatures and explore their potential to reduce urban heat. Using advanced modeling tools like the Weather Research and Forecasting (WRF) model combined with remote sensing data, we simulate and evaluate various cooling strategies to inform better urban planning. |
+
+| **How does rapid urban growth intersect with extreme heat?** In rapidly urbanizing areas, such as cities in India, the emergence of extreme heat is intensifying, yet global climate models often fail to capture the intra-urban variability of heat exposure. Our lab seeks to address these gaps, focusing on the intersection of urban growth and climate extremes to better protect vulnerable urban populations. |
+
+By integrating urban design, advanced modeling techniques, and spatial data analysis, our lab aims to contribute to more resilient, sustainable cities.
 
 
 
+
+
+<!--
 ## Doctoral Research Themes
 
 | **Urban Heat Islands as an archipelago of Fractal intra-urban heat islets** <br> <br> Surface Urban Heat Islands (SUHI) are traditionally quantified by a bulk metric of SUHI Intensity. However, cities are highly spatially heterogeneous and temperatures within vary widely. Inspired by the [fractal nature of cities](http://www.complexcity.info/), we show for the first time, that for diverse cities across the world, SUHIs are fractal in nature. We analyze the SUHI as a collection of *intra-urban heat islets* and leverage the self-similarity to develop comprehensive metrics to quantify intra-urban thermal complexity. <br> <br> Read more: [[Phys. Rev. E.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032142)] [[SPIE Remote Sensing](https://doi.org/10.1117/12.2501441)] [[EarthArXiv Preprint](https://eartharxiv.org/t9s3g)] [[Poster Summary](/assets/files/Poster_LCLUC_Anamika.pdf)] | <img src="/assets/images/PRE_pic2.png" width="1600px" alt="PRE"> |
@@ -33,9 +44,9 @@ I am a NASA Postdoctoral Fellow working at the Jet Propulsion Lab, Pasadena. My 
 
 | **Influence of heat waves on intra-urban heat islets** <br> <br> Heat waves are known further exacerbate the urban heat islands. I am currently working in collaboration with NOAA's Center for Earth System Sciences and Remote Sensing Technologies ([NOAA-CESSRST](https://www.noaacrest.org/)) to explore the impact of such heat waves on the dynamics of intra-urban heat islets and the role of complex urban morphology in this interaction. I am using a combination of remotely sensed observations as well as the Weather Research Forecast (WRF) model to simulate the heat waves of 2018 experienced by three major megacities - Paris, Los Angeles, and New Delhi | <img src="/assets/images/Paris.png" width="1800px" alt="Paris"> |
 
-<!--
+
 {% include gallery layout="half" caption="Representing Land Surface Temperatures as Digital Elevation Models (DEM) where elevation and color indicate temperature. This is a schematic gif showing percentile based thresholding of fractal landscapes." %}
--->
+
 
 
 ## Master's Research Themes

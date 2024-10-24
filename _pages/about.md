@@ -29,7 +29,10 @@ A key outcome of the interplay between these two complex systems is the Urban He
 The path to building *climate-resilient cities* lies in deepening our understanding of the intricate interdependencies and feedbacks between urban areas and their microclimates. To this end, my research leverages techniques from complexity science, data science, numerical weather modeling, and remote sensing to unravel these interactions and inform urban adaptation strategies.
 
 
-
+<figure class="align-center">
+  <img src="/assets/city-pics/London.jpg" alt="">
+  <figcaption>To London, one of my most favourite cities to wander about in. I think it was the mix of old and new that most enchanted me! Photo credit: <a href="https://unsplash.com">Unsplash</a></figcaption>
+</figure>
 
 
 <!--

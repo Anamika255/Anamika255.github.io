@@ -1,13 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /papers/
+  - title: "Principal Investigator"
+    url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "Music"
-    url: /music/
   - title: "Join us"
     url: /join-us/

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About Dr Shreevastava"
 classes: wide
 layout: single
 classes: wide
@@ -15,9 +15,7 @@ author_profile: true
 
 
 
-### Bio
-
-I am an expert in multi-scale urban climatology and specialize in the application of numerical weather modeling and remote sensing to find equitable solutions to climate and environmental injustice within cities. I am starting as Assistant Professor at NYU in Fall 2025 with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP). My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide.
+I am an expert in multi-scale urban climatology and specialize in the application of numerical weather modeling and remote sensing to find equitable solutions to climate and environmental injustice within cities. I am starting as [Assistant Professor at NYU](https://engineering.nyu.edu/faculty/anamika-shreevastava) in Fall 2025 with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP). My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide.
 
 During my PhD from Purdue University, I pioneered the concept of "*fractal intra-urban heat islets*", characterizing the spatial heterogeneity of urban heat islands. I demonstrated that these heat islets exhibit a common fractal structure across diverse cities, laying the groundwork for globally adaptive models of heat emergence. My postdoctoral work at NASA Jet Propulsion Laboratory (JPL) and Caltech advanced thermal remote sensing and urban microclimate monitoring, contributing to innovative sensing technologies and deepening the understanding of how extreme heat disproportionately affects the urban poor and historically marginalized communities in Los Angeles. Committed to translating research into practical climate adaptation solutions, I have also served as a science ambassador and member of applied science teams at NASA JPL, actively collaborating with private and public institutions in California to develop cooling solutions for urban neighborhoods.
 

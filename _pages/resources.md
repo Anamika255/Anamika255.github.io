@@ -5,6 +5,7 @@ collection: resources
 permalink: /resources/
 author_profile: true
 toc: true
+title: "Other Resources"
 toc_sticky: true
 toc_label: "Jump to"
 toc_icon: "fal fa-stream"  # corresponding Font Awesome icon name (without fa prefix)
@@ -13,7 +14,7 @@ toc_icon: "fal fa-stream"  # corresponding Font Awesome icon name (without fa pr
 
 ## Navigating grad school
 
-[**The hidden curriculum of grad school**](https://www.nature.com/articles/s41561-021-00799-w): Getting a PhD can be surprisingly different than your undergraduate journey. Here's a good way to better adjust your expectations of grad school.
+[**The hidden curriculum of grad school**](https://www.nature.com/articles/s41561-021-00799-w): Getting a PhD can be surprisingly different than your undergraduate journey. Here's a good way to better adjust your expectations of grad school. |
 
 [**Obsidian**](https://obsidian.md/): I am a big fan and a long time user of Obsidian system for personal knowledge management. I have found this to be the most useful tool to manage my research (esp. advisor meetings). As writing is an absolutely essential skill for PhD students, I highly recommend a proper writing app such as this one. |
 

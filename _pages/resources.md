@@ -10,10 +10,25 @@ toc_label: "Jump to"
 toc_icon: "fal fa-stream"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
+
+## Navigating grad school
+
+[**Calendar. Not to-do lists.**](https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd): When it comes to time management, I am not a calendar-based planner. But if you are, check out this amazing blog post.|
+
+[**GTD on Todoist**](https://todoist.com/productivity-methods/getting-things-done): Instead, I prefer to-do lists! |
+
+[**Obsidian**](https://obsidian.md/): I am a big fan and a long time user of Obsidian system for personal knowledge management. I have found this to be the most useful tool to manage my research (esp. advisor meetings). As writing is an absolutely essential skill for PhD students, I highly recommend a proper writing app such as this one. |
+
+[**The art of spaced repetition**](https://ncase.me/remember/): To accept that the expertise you once had will fade with time. All we can do is find time to relearn old tricks as we learn new ones. |
+
+[**Unwritten rules of grad school**](https://www.nature.com/articles/s41561-021-00799-w): Getting a PhD can be surprisingly different than your undergraduate journey. Here's a good way to better adjust your expectations of grad school. 
+
+<!--
 Some useful tools I have built for my research. Any suggestions for improvement will be highly appreciated.
 * [WRF domain designer and visualizer in R markdown](/assets/files/WRF_domain.pdf)
 * [WRF domains and time series from MODIS and NCAR Reanalysis data in Google Earth Engine](https://code.earthengine.google.com/e58342abd5ea1fff8ef4b3ab70497a73)
 * [Land Surface Temperature from Landsat images](https://code.earthengine.google.com/36460b55b5c8688d50e27cbb073a0ef9)
+-->
 
 ## Research groups
 
@@ -67,14 +82,6 @@ I am extremely passionate about data visualization and visual story-telling. Her
 [**How much hotter is your hometown?**](https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html): On climate change communication. |
 
 <!-- [Hottest year on record](https://www.bloomberg.com/graphics/hottest-year-on-record/) -->
-
-## Managing Grad-Life
-
-[**The art of spaced repetition**](https://ncase.me/remember/): To accept that the expertise you once had will fade with time. All we can do is find time to relearn old tricks as we learn new ones. |
-
-[**Calendar. Not to-do lists.**](https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd): When it comes to time management, I am not a calendar-based planner. But if you are, check out this amazing blog post.|
-
-[**WorkFlowy**](https://workflowy.com/): Instead, I like to make lists! |
 
 
 ![](/assets/images/Stat_Wars.png)

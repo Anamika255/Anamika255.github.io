@@ -20,7 +20,7 @@ toc_icon: "fal fa-stream"  # corresponding Font Awesome icon name (without fa pr
 
 [**Calendar. Not to-do lists.**](https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd): When it comes to time management, I am not a calendar-based planner. But if you are, check out this amazing blog post.|
 
-[**GTD on Todoist**](https://todoist.com/productivity-methods/getting-things-done): Instead, I prefer to-do lists! |
+[**Get Things Done on Todoist**](https://todoist.com/productivity-methods/getting-things-done): Instead, I prefer to-do lists! |
 
 [**The art of spaced repetition**](https://ncase.me/remember/): To accept that any expertise you once had will fade with time if tucked away. Try to find time to relearn old tricks as we learn new ones. |
 

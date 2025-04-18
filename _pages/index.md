@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Climate Resilient Cities Lab"
+title: "Urban Planet Lab"
 header:
   overlay_image: assets/city-pics/City-Sun.jpg
   overlay_filter: 0.7
@@ -15,7 +15,7 @@ header:
 
 excerpt: >
   <br>
-  Research group focused on "urban resilience in a changing climate" driven by critical and socially relevant questions such as: How can cities better prepare for climate extremes? Can innovative urban design help mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
+  Research group focused on the interconnectedness and complexity of cities driven by critical and socially relevant questions such as: How can cities better prepare for extreme weather impacts? Can innovative urban design help mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png

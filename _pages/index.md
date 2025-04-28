@@ -15,7 +15,9 @@ header:
 
 excerpt: >
   <br>
-  Research group focused on the interconnectedness and complexity of cities driven by critical and socially relevant questions such as: How can cities better prepare for extreme weather impacts? Can innovative urban design help mitigate extreme heat? What sustainable growth strategies can benefit rapidly developing cities?
+  Welcome to the Urban Planet Lab!
+  <br>
+  Cities extend their influence far beyond their physical boundaries, affecting ecosystems, climate, and societies worldwide. At the Urban Planet Lab, we study the dynamics and impacts of urbanization at multiple scales—from local neighborhoods to global systems—to better understand and address the complex challenges of our increasingly urbanized world.
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png

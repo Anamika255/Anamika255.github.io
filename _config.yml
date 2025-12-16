@@ -70,12 +70,12 @@ author:
             Dept of MAE and CUSP, <br>
             Tandon School of Engineering <br>
             New York University, NYC"
-  location: "Caltech, Pasadena, CA"
+  location: "New York City"
   links:
 
     - label: "Email"
       icon: "far fa-fw fa-paper-plane"
-      url: "mailto:ashreeva@caltech.edu"
+      url: "mailto:anamika.shreevastava@nyu.edu"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
